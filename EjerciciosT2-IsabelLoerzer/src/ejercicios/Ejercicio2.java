@@ -5,8 +5,10 @@ import java.util.Scanner;
 public class Ejercicio2 {
 	
 	/*En este caso, las pruebas a realizar son:
-	 * - Introducir un número de ocho cifras y que salga la letra correcta.
-	 * - Introducir un número distinto de ocho cifras y comprobar que aparece el mensaje de error.*/
+	 * - Introducir un número de ocho cifras y que salga la letra correcta. Si introduzco 11111111 me da la letra H.
+	 * 
+	 * - Introducir un número distinto de ocho cifras y comprobar que aparece el mensaje de error. Si introduzca el
+	 *  número 7777777 me da error.*/
 
 	public static void main(String[] args) {
 		

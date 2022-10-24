@@ -6,10 +6,17 @@ public class Ejercicio8 {
 	
 	/*Las pruebas que se harán en este ejercicio son las siguientes:
 	 * 
-	 * - Introducir un número de días menor que 7 y un número de km menor que 800.
-	 * - Introducir un número de días mayor que 7 y un número de km mayor que 800.
-	 * - Introducir un número de días mayor que 7.
-	 * - Introducir un número de km mayor que 800. */
+	 * - Introducir un número de días menor que 7 y un número de km menor que 800. Si introduzco 5 días y 600 km, 
+	 * 	me dará que el billete cuesta 1500 euros.
+	 * 
+	 * - Introducir un número de días mayor que 7 y un número de km mayor que 800. Debe aplicarse el descuento, 
+	 * 	si introduzco 8 días y 810 km el billete deberá costar 1417,5 euros.
+	 * 
+	 * - Introducir un número de días mayor que 7. No debe aplicarse el descuento. Si introduzco 8 días y 600 km,
+	 * 	el billete costará 1500 km.
+	 * 
+	 * - Introducir un número de km mayor que 800. No debe aplicarse el descuento. Si introduzco 5 días y 810 km, 
+	 * 	el billete costará 2025 euros. */
 
 	public static void main(String[] args) {
 	

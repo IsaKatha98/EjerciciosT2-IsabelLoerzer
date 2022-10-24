@@ -6,12 +6,19 @@ public class Ejercicio4 {
 	
 	/*Las pruebas realizadas en este ejercicio son las siguientes:
 	 * 
-	 * - Introducir un número no válido: menor que 1, 0 o mayor que 99.
-	 * - Introducir un número que solo sea unidades: 1-9.
-	 * - Introducir un número que solo sea decenas y que sea una excepción: 10 o 20.
-	 * - Introducir un número que solo sea decenas y que no sea una excepción: 30, 40, 50...
-	 * - Introducir un número entre 11 y 15.
-	 * - Introducir un número entre 16-99. */
+	 * - Introducir un número no válido: menor que 1, 0 o mayor que 99. Si introduzco 100 me notifica error.
+	 * 
+	 * - Introducir un número que solo sea unidades: 1-9. Si introduzco el 5, me imprime "cinco".
+	 * 
+	 * - Introducir un número que solo sea decenas y que sea una excepción: 10 o 20. Si introduzco el diez,
+	 * 	me lee "diez".
+	 * 
+	 * - Introducir un número que solo sea decenas y que no sea una excepción: 30, 40, 50... Si introduzco el 40,
+	 * 	me lee "cuarenta".
+	 * 
+	 * - Introducir un número entre 11 y 15. Si introduzco 13, me lee "trece".
+	 * 
+	 * - Introducir un número entre 16-99. Si introduzco el 25, me lee "veinticinco". */
 
 	public static void main(String[] args) {
 	

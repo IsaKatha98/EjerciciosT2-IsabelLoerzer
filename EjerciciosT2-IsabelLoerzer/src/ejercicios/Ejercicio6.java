@@ -6,7 +6,8 @@ public class Ejercicio6 {
 	
 	/*En este ejercicio, se harán las siguientes comprobaciones:
 	 * 
-	 * - Introducir un número correcto y que muestre el mensaje correspondiente.
+	 * - Introducir un número correcto y que muestre el mensaje correspondiente. 
+	 * 
 	 * - Introducir un número incorrecto y que muestre la solución correcta.*/
 
 	public static void main(String[] args) {

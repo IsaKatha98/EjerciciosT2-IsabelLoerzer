@@ -1,3 +1,4 @@
+
 package ejercicios;
 
 import java.util.Scanner;
@@ -6,8 +7,11 @@ public class Ejercicio1 {
 	
 	/*Las pruebas que se realizarán en este ejercicio son:
 	 * 
-	 * - Comprobar que el número introducido por el usuario se encuentra en el rango [0,9999].
-	 * - En caso afirmativo, comprobar que es capicúa.*/
+	 * - Comprobar que el número introducido por el usuario se encuentra en el rango [0,9999]. Si introduzco -1 me da
+	 * 	error mientras que si introduzco 1, me lo acepta.
+	 * 
+	 * - En caso afirmativo, comprobar que es capicúa. Si introduzco el número 22 me lo notifica como capicúa mientras
+	 *	que si introduzco 23 me dirá que no lo es.*/
 
 	public static void main(String[] args) {
 		
@@ -52,7 +56,7 @@ public class Ejercicio1 {
 				
 				} else {
 					
-					System.out.println("Este número no es capicúa");
+					System.out.println("Este número no es capicúa.");
 				}
 			
 			}else if (num<=999) {

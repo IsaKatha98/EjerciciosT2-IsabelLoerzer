@@ -6,8 +6,9 @@ public class Ejercicio5 {
 	
 	/*Las pruebas realizadas en este ejercicio son las siguientes:
 	 * 
-	 * - Introducir un número positivo.
-	 * - Introducir un número negativo.*/
+	 * - Introducir un número positivo. Si introduzco el 3, me da 3.
+	 * 
+	 * - Introducir un número negativo. Si introduzco el -3, me da 3.*/
 
 	public static void main(String[] args) {
 	

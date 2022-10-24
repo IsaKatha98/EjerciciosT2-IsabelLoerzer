@@ -5,10 +5,14 @@ import java.util.Scanner;
 public class Ejercicio3 {
 	
 	/*Las pruebas realizadas en este ejercicio serán:
-	 * - Introducir un número de animales negativo.
-	 * - Introducir un número de animales igual a 0.
-	 * - Introducir un número de animales válido, siendo los kilos comprados mayores que los kilos consumidos.
-	 * - Introducir un número de animales válido, siendo los kilos comprados menores que los kilos consumidos. */
+	 * - Introducir un número de animales negativo o 0. Si introduzco 0 animales me sale un mensaje de error.
+	 * 
+	 * - Introducir un número de animales válido, siendo los kilos comprados mayores que los kilos consumidos. 
+	 * 	Si introduzco de kilos comprados son 5 y los kilos consumidos son 3, me notifica que tengo comida suficiente.
+	 * 
+	 * - Introducir un número de animales válido, siendo los kilos comprados menores que los kilos consumidos. 
+	 * 	Si intreoduzco que los kilos comprados son 3 y los kilos consumidos son 5, me notifica que no tengo comida 
+	 * 	suficiente y que la ración diaria de un animal (teniendo 2 animales) es 2,5 kg.*/
 
 	public static void main(String[] args) {
 		

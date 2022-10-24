@@ -6,9 +6,12 @@ public class Ejercicio7 {
 	
 	/*Las pruebas realizadas en este ejercicio son:
 	 * 
-	 * - Introducir una hora mayor de 24.
-	 * - Introducir una una hora válida y los minutos y los segundos igual a 59.
-	 * - Introducir 23 horas, 59 minutos y 59 segundos.*/
+	 * - Introducir una hora mayor de 24. Si introduzco 25 horas, me da error.
+	 * 
+	 * - Introducir una una hora válida y los minutos y los segundos igual a 59. Si introduzco 21 horas, 25 minutos
+	 * 	y 59 segundos, me imprime 21 horas y 26 minutos.
+	 * 
+	 * - Introducir 23 horas, 59 minutos y 59 segundos. Me debe dar 0 horas, 0 minutos y 0 segundos.*/
 
 	public static void main(String[] args) {
 		
